@@ -6,7 +6,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 
-### 🚀 [Live Demo](https://music.baransel.site) | 📺 [Video Demo](https://www.youtube.com/shorts/A1twl0MKRYE)
+### 🚀 [Live Demo](https://music.baransel.site) | 📺 [Video Demo](https://youtu.be/oq9h6XLDtbE)
 
 Real-time Spotify tracking with synchronized karaoke-style lyrics
 
